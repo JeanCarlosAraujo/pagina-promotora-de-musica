@@ -1,0 +1,41 @@
+.navbar {
+background-color: #afcbe7 !important;
+}
+.card-body{
+    background-color:  #F9C0C0;
+}
+img{
+    width: 300px;
+}
+body{
+    background-color: #AEE1F9;
+}
+.hero .btn-warning {
+background-color: #F9C0C0;
+color: #333;
+border: none;
+}
+.hero .btn-warning:hover {
+background-color: #00ff0d;
+}
+section {
+margin-bottom: 3rem;
+}
+.carrusel-personalizado {
+    width: 370px;
+    height: 550px;
+    margin: auto;
+    overflow: hidden;
+}
+.carrusel-personalizado .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.btn{
+    background-color:#F9C0C0;
+    color: #333;
+}
+#contact{
+    border-radius: 12%;
+}
